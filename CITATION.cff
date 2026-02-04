@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite it as below."
+authors:
+  - family-names: Narayanan
+    given-names: Arun
+title: "Rush Hour Reality: Dublin Bus Delay Analysis"
+version: 1.0.0
+date-released: 2026-02-04
+url: "https://github.com/ArunGMR0411/rush-hour-reality"
+license: MIT

@@ -122,7 +122,7 @@ Open:
 
 ![Daily Pattern](assets/daily_pattern.png)
 
-**Live Dashboard:** ![Rush Hour Reality Dashboard](dashboards/rush_hour_reality_dashboard.html)
+**Live Dashboard:** https://arungmr0411.github.io/rush-hour-reality/
 
 ## Methodology
 
